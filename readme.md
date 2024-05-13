@@ -1,6 +1,8 @@
 
 <!--TRABAJO REALIZADO POR FRAN, ALEX, MIGUEL CASADO Y ALFONSO-->
 
+![Header](github-header-image.png)
+
 # Conceptos Básicos de Git
 | Concepto    | Descripción                                                  |
 |-------------|--------------------------------------------------------------|
